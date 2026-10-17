@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="images/banner.png" width="100%" alt="Erfan's developer banner">
-
 # Hey, I'm Erfan Hakimi 👋
 
 <a href="https://readme-typing-svg.demolab.com/">
@@ -11,7 +9,9 @@
 
 *Code meets creativity.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
@@ -30,7 +30,7 @@ I'm a Computer Science student specializing in **Multimedia Computing**, interes
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
@@ -40,7 +40,7 @@ I'm a Computer Science student specializing in **Multimedia Computing**, interes
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
-**Tools & Technologies**
+### Tools & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
@@ -52,9 +52,29 @@ I'm a Computer Science student specializing in **Multimedia Computing**, interes
 
 ---
 
+## 🏆 Certifications
+
+<div align="center">
+
+<a href="https://credsverse.com/credentials/63907abc-b4ce-437c-8c12-2af941235b3e?preview=2">
+  <img
+    alt="Certified Data Analyst (CDA)"
+    src="https://cdn.certifier.io/44d885bb-7e58-49cc-850d-90238c6bf1b5/credentials/01m4m4xe92t3y2yxfhhcqvpj8n/designs/01knp653we2bz8pe7wwkbyz8b8/k5INMEYSpw.png"
+    width="180">
+</a>
+
+### Certified Data Analyst (CDA)
+
+*Click the badge to view the credential.*
+
+</div>
+
+---
+
 ## 🎮 Featured Projects
 
 ### 1. Interactive Data Visualization Game
+
 **🚧 In Development**
 
 An educational game that explores data representation concepts through interactive gameplay and a rule-based inference system.
