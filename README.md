@@ -6,20 +6,13 @@
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Multimedia+Computing+Student;Exploring+Game+Development;Building+Interactive+Experiences;Learning+Data+Analytics" alt="Animated typing introduction">
 </a>
-
-*Code meets creativity.*
-
-<a href="https://github.com/YOUR-USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student specializing in **Multimedia Computing**, interested in creating interactive experiences through code, design, and technology.
+I'm a Computer Science student specializing in **Multimedia Computing** interested in creating interactive experiences through code, design, and technology.
 
 - 🎮 Exploring game development with Unity and C#.
 - 🌐 Building web applications and experimenting with new ideas.
