@@ -13,10 +13,10 @@
 
 I'm a Computer Science student specializing in **Multimedia Computing** interested in creating interactive experiences through code, design, and technology.
 
-- 🎮 Exploring game development with Unity and C#.
-- 🌐 Building web applications and experimenting with new ideas.
-- 📊 Learning data analytics and data visualization.
-- 🎨 Interested in the intersection of technology and creativity.
+-  Exploring game development with Unity and C#.
+-  Building web applications and experimenting with new ideas.
+-  Learning data analytics and data visualization.
+-  Interested in the intersection of technology and creativity.
 
 ---
 
@@ -74,9 +74,9 @@ I'm a Computer Science student specializing in **Multimedia Computing** interest
 
 An educational game that explores data representation concepts through interactive gameplay and a rule-based inference system.
 
-- 🌍 Developing an interactive game environment.
-- 📊 Exploring rule-based chart recommendations.
-- 🎯 Building learning challenges around data representation.
+-  Developing an interactive game environment.
+-  Exploring rule-based chart recommendations.
+-  Building learning challenges around data representation.
 
 **Tech:** C# · Unity · WebGL
 
@@ -92,12 +92,12 @@ An educational game that explores data representation concepts through interacti
 
 An automated video analytics web application that extracts frame-by-frame dominant color palettes, lighting trends, and visual mood metrics in real time.
 
-- 🎨 **Dominant Palette Extraction:** Uses K-Means clustering to identify dominant color distributions across video timelines and static imagery.
-- 📈 **Time-Series Telemetry:** Tracks frame brightness and saturation shifts dynamically with interactive Plotly dashboards.
-- ⚡ **Optimized Data Pipeline:** Implements spatial downsampling to handle high-resolution media uploads with zero UI latency.
+-  **Dominant Palette Extraction:** Uses K-Means clustering to identify dominant color distributions across video timelines and static imagery.
+-  **Time-Series Telemetry:** Tracks frame brightness and saturation shifts dynamically with interactive Plotly dashboards.
+-  **Optimized Data Pipeline:** Implements spatial downsampling to handle high-resolution media uploads with zero UI latency.
 
 **Tech:** Python · OpenCV · Scikit-Learn · Streamlit · Plotly · Pandas  
-🌐 **Links:** [Live App](https://color-telemetry.streamlit.app) | [GitHub Repository](https://github.com/erfanhkimi/color-telemetry-app)
+ **Links:** [Live App](https://color-telemetry.streamlit.app) | [GitHub Repository](https://github.com/erfanhkimi/color-telemetry-app)
 
 ---
 
@@ -109,7 +109,7 @@ A personal project focused on planning and organization.
   <img src="images/planora.png" width="85%" alt="Planora project screenshot">
 </p>
 
-**Tech:** Add the technologies used in your project.
+**Tech:** Java, HTML, CSS
 
 ---
 
@@ -125,7 +125,5 @@ A personal project focused on planning and organization.
 <div align="center">
 
 ### Thanks for stopping by! 👾
-
-*Still learning, still building, always experimenting.*
 
 </div>
