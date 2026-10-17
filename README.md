@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hey, I'm Erfan Hakimi 👋
@@ -37,6 +36,8 @@ I'm a Computer Science student specializing in **Multimedia Computing** interest
 
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -86,7 +87,20 @@ An educational game that explores data representation concepts through interacti
 
 ---
 
-### 2. Planora
+### 2. Color Telemetry & Visual Analytics Studio
+
+An automated video analytics web application that extracts frame-by-frame dominant color palettes, lighting trends, and visual mood metrics in real time.
+
+- 🎨 **Dominant Palette Extraction:** Uses K-Means clustering to identify dominant color distributions across video timelines and static imagery.
+- 📈 **Time-Series Telemetry:** Tracks frame brightness and saturation shifts dynamically with interactive Plotly dashboards.
+- ⚡ **Optimized Data Pipeline:** Implements spatial downsampling to handle high-resolution media uploads with zero UI latency.
+
+**Tech:** Python · OpenCV · Scikit-Learn · Streamlit · Plotly · Pandas  
+🌐 **Links:** [Live App](https://color-telemetry.streamlit.app) | [GitHub Repository](https://github.com/erfanhkimi/color-telemetry-app)
+
+---
+
+### 3. Planora
 
 A personal project focused on planning and organization.
 
@@ -95,18 +109,6 @@ A personal project focused on planning and organization.
 </p>
 
 **Tech:** Add the technologies used in your project.
-
----
-
-### 3. Python RM Note Detector
-
-A Python project exploring Malaysian Ringgit banknote detection.
-
-<p align="center">
-  <img src="images/python-project.png" width="85%" alt="RM banknote detection project">
-</p>
-
-**Tech:** Python
 
 ---
 
