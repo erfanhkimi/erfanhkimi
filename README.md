@@ -3,7 +3,7 @@
 # Hey, I'm Erfan Hakimi 👋
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Multimedia+Computing+Student;Exploring+Game+Development;Building+Interactive+Experiences;Learning+Data+Analytics" alt="Animated typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Multimedia+Computing+Student;Cross-Platform+Mobile+Developer;Exploring+Game+Development;Learning+Data+Analytics" alt="Animated typing introduction">
 </a>
 </div>
 
@@ -13,10 +13,10 @@
 
 I'm a Computer Science student specializing in **Multimedia Computing** interested in creating interactive experiences through code, design, and technology.
 
--  Exploring game development with Unity and C#.
--  Building web applications and experimenting with new ideas.
--  Learning data analytics and data visualization.
--  Interested in the intersection of technology and creativity.
+- 📱 Building cross-platform mobile applications with Flutter and Dart.
+- 🎮 Exploring game development with Unity and C#.
+- 🌐 Building web applications and experimenting with interactive media.
+- 📊 Learning data analytics and data visualization.
 
 ---
 
@@ -25,17 +25,20 @@ I'm a Computer Science student specializing in **Multimedia Computing** interest
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </p>
 
 ### Tools & Technologies
 
 <p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
@@ -74,9 +77,9 @@ I'm a Computer Science student specializing in **Multimedia Computing** interest
 
 An educational game that explores data representation concepts through interactive gameplay and a rule-based inference system.
 
--  Developing an interactive game environment.
--  Exploring rule-based chart recommendations.
--  Building learning challenges around data representation.
+- Developing an interactive game environment.
+- Exploring rule-based chart recommendations.
+- Building learning challenges around data representation.
 
 **Tech:** C# · Unity · WebGL
 
@@ -92,33 +95,34 @@ An educational game that explores data representation concepts through interacti
 
 An automated video analytics web application that extracts frame-by-frame dominant color palettes, lighting trends, and visual mood metrics in real time.
 
--  **Dominant Palette Extraction:** Uses K-Means clustering to identify dominant color distributions across video timelines and static imagery.
--  **Time-Series Telemetry:** Tracks frame brightness and saturation shifts dynamically with interactive Plotly dashboards.
--  **Optimized Data Pipeline:** Implements spatial downsampling to handle high-resolution media uploads with zero UI latency.
+- **Dominant Palette Extraction:** Uses K-Means clustering to identify dominant color distributions across video timelines and static imagery.
+- **Time-Series Telemetry:** Tracks frame brightness and saturation shifts dynamically with interactive Plotly dashboards.
+- **Optimized Data Pipeline:** Implements spatial downsampling to handle high-resolution media uploads with zero UI latency.
 
 **Tech:** Python · OpenCV · Scikit-Learn · Streamlit · Plotly · Pandas  
- **Links:** [Live App](https://color-telemetry.streamlit.app) | [GitHub Repository](https://github.com/erfanhkimi/color-telemetry-app)
+**Links:** [Live App](https://color-telemetry.streamlit.app) | [GitHub Repository](https://github.com/erfanhkimi/color-telemetry-app)
 
 ---
 
-### 3. Planora
+### 3. Hooper Buddy
 
-A personal project focused on planning and organization.
+A cross-platform mobile basketball training and analytics application designed to help players track drills, log workout sessions, and monitor shooting metrics offline.
 
-<p align="center">
-  <img src="images/planora.png" width="85%" alt="Planora project screenshot">
-</p>
+- **Custom Drill & Routine Tracking:** Allows users to create, structure, and log basketball workouts with offline local persistence using SQLite (`sqflite`).
+- **Performance Visualizations:** Visualizes shooting statistics, training frequency, and progress trends using dynamic `fl_chart` dashboards.
+- **Production Packaging:** Built with audio state management, customized launcher assets, and deployed as a standalone Android release (`.apk`).
 
-**Tech:** Java, HTML, CSS
+**Tech:** Flutter · Dart · SQLite · Android  
+**Links:** [GitHub Repository](https://github.com/erfanhkimi/hooper_buddy) | [Download APK Release](https://github.com/erfanhkimi/hooper_buddy/releases)
 
 ---
 
 ## 🌱 Currently Exploring
 
+- Mobile app performance optimization and cross-platform architecture
 - Game mechanics and interactive learning systems
 - Data analytics and visualization
-- Creative applications of programming
-- Building and documenting personal projects
+- Building and documenting personal open-source projects
 
 ---
 
