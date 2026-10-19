@@ -14,13 +14,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 Computer Science student specializing in **Multimedia Computing**. I build interactive experiences bridging cross-platform mobile development, game engines, interactive web media, and visual data analytics.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -44,7 +44,7 @@ Computer Science student specializing in **Multimedia Computing**. I build inter
 
 ---
 
-## 🎮 Featured Projects
+##  Featured Projects
 
 | Project | Highlights | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
@@ -54,8 +54,9 @@ Computer Science student specializing in **Multimedia Computing**. I build inter
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
 - Mobile app performance optimization & cross-platform architecture
 - Interactive game mechanics & educational systems
 - Visual data analytics & open-source tools
+- Internship Placement 
