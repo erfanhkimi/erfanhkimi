@@ -57,7 +57,7 @@ I'm a Computer Science student specializing in **Multimedia Computing** interest
 <a href="https://credsverse.com/credentials/63907abc-b4ce-437c-8c12-2af941235b3e?preview=2">
   <img
     alt="Certified Data Analyst (CDA)"
-    src="https://cdn.certifier.io/44d885bb-7e58-49cc-850d-90238c6bf1b5/credentials/01m4m4xe92t3y2yxfhhcqvpj8n/designs/01knp653we2bz8pe7wwkbyz8b8/k5INMEYSpw.png"
+    src="https://cdn.certifier.io/d7067ab1-e44e-4296-9a69-f17cb9b06b5a/credentials/01m57rs749ft0js2eqrv27qdn9/designs/01m3mb262hb11nd4470b2aw5bz/YaY-sORPwE.png"
     width="180">
 </a>
 
