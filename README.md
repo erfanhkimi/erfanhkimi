@@ -1,17 +1,18 @@
-# Hi, I'm Erfan Hakimi 👋
+# Hey, I'm Erfan Hakimi 👋
 
-> **Multimedia Computing Student** · **Mobile Developer** (Flutter) · **Game Dev** (Unity) · **Data Analyst**
-
-🌐 **Website:** [yourwebsite.com](https://yourwebsite.com) *(replace with your URL)*  
-📧 **Contact:** [your.email@domain.com](mailto:your.email@domain.com)  
-🐙 **GitHub:** [@erfanhkimi](https://github.com/erfanhkimi)
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Multimedia+Computing+Student;Cross-Platform+Mobile+Developer;Exploring+Game+Development;Learning+Data+Analytics" alt="Animated typing introduction">
+  </a>
+</p>
 
 ---
 
-## 🌐 Personal Website & Links
+## 🌐 Website & Socials
 
-- 🔗 **Portfolio / Website:** [yourwebsite.com](https://yourwebsite.com)
+- 🔗 **Personal Website:** [yourwebsite.com](https://yourwebsite.com) *(replace with your URL)*
 - 📜 **Certification:** [Certified Data Analyst (CDA)](https://credsverse.com/credentials/63907abc-b4ce-437c-8c12-2af941235b3e?preview=2)
+- 🐙 **GitHub:** [@erfanhkimi](https://github.com/erfanhkimi)
 
 ---
 
@@ -26,7 +27,7 @@ Computer Science student specializing in **Multimedia Computing**. I build inter
 **Languages:**  
 `Dart` · `Python` · `C#` · `JavaScript` · `PHP` · `SQL` · `R`
 
-**Technologies & Frameworks:**  
+**Tools & Frameworks:**  
 `Flutter` · `Unity` · `Streamlit` · `OpenCV` · `SQLite` · `MySQL` · `Power BI` · `Tableau` · `Git`
 
 ---
