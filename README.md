@@ -39,6 +39,9 @@ Computer Science student specializing in **Multimedia Computing**. I build inter
 ![Unity](https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -51,6 +54,7 @@ Computer Science student specializing in **Multimedia Computing**. I build inter
 
 | Project | Highlights | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **Malaysia Property Price Estimator** | Machine-learning web app that estimates property price per sq ft from township, tenure and property type using 2025 transaction data, served through a REST API. | `Python` `scikit-learn` `FastAPI` `pandas` | [Live App](YOUR_RENDER_LINK) · [GitHub](https://github.com/erfanhkimi/klang-valley-property-price-estimator-2025-data) |
 | **Selective Storage Purger** | Manifest V3 extension to filter and surgically wipe storage keys without losing active login sessions. | `JavaScript` `Manifest V3` `Chrome API` | [GitHub](https://github.com/erfanhkimi/storage-purger) |
 | **VibeVault** | Local-first context bookmarking utility saving pages and highlighted quotes with personal notes. | `JavaScript` `HTML/CSS` `Manifest V3` | [GitHub](https://github.com/erfanhkimi/vibevault) |
 | **Color Telemetry Studio** | Video analytics web app extracting frame-by-frame dominant palettes, lighting trends, and mood metrics in real time. | `Python` `OpenCV` `Streamlit` `Plotly` | [Live App](https://color-telemetry.streamlit.app) · [GitHub](https://github.com/erfanhkimi/color-telemetry-app) |
@@ -62,6 +66,7 @@ Computer Science student specializing in **Multimedia Computing**. I build inter
 ## 🔍 Currently Exploring
 
 - Manifest V3 browser extension architecture & developer tooling
+- Machine learning on tabular data & deploying models as REST APIs
 - Mobile app performance optimization & cross-platform architecture
 - Interactive game mechanics & educational systems
 - Visual data analytics & open-source tools
